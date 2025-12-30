@@ -83,6 +83,3 @@ CNN significantly outperforms the ANN by learning spatial hierarchies.
 1. Clone the repository
 2. Install dependencies
 3. Run the Jupyter Notebook
-
-
-⭐ If you found this project helpful, feel free to star the repository!
