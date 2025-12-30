@@ -1,5 +1,14 @@
+Convolutional Neural Network (CNN) — Definition
+
+A Convolutional Neural Network (CNN) is a specialized type of deep learning model designed to automatically learn and extract meaningful patterns from visual data such as images and videos. Unlike traditional neural networks that treat every input pixel independently, CNNs preserve spatial relationships between pixels, allowing the model to understand shapes, edges, textures, and objects within an image.
+
+CNNs use convolution layers to scan images with small filters, pooling layers to reduce dimensionality while retaining important features, and fully connected layers to perform final classification or prediction. This architecture makes CNNs highly effective for computer vision tasks such as image classification, object detection, facial recognition, and medical image analysis.
+
+In simple terms, a CNN learns what to look for (features) and where to look (spatial location) in an image, which is why it significantly outperforms traditional neural networks for image-based problems.
 
 # Image Classification using CNN (CIFAR-10)
+
+
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end **image classification pipeline** using **Convolutional Neural Networks (CNNs)** on the **CIFAR-10 dataset**. It showcases how deep learning models learn visual patterns from raw image pixels and outperform traditional neural networks in computer vision tasks.
